@@ -1,4 +1,6 @@
-﻿streamlit
-pandas
-openpyxl
-groq
+streamlit==1.33.0
+pandas==2.2.2
+openpyxl==3.1.2
+groq==0.5.0
+pypdf==4.2.0
+requests==2.31.0
